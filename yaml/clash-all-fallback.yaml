@@ -76,7 +76,6 @@ dns:
     - +.local
     - geosite:cn
 
-
 ipv6: true
 
 # ========================
